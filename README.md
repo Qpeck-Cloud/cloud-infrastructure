@@ -4,6 +4,8 @@ Qpeck delivers enterprise-grade cloud infrastructure for startups, growing busin
 
 # Cloud Infrastructure
 
+[MIT] [Cloud Infrastructure] [Linux VPS] [Windows VPS] [GPU Cloud] [DevOps] [Kubernetes]
+
 A curated collection of resources, tools, tutorials, and best practices for building secure, scalable, and enterprise-grade cloud infrastructure.
 
 Maintained by **Qpeck**.
