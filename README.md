@@ -28,7 +28,12 @@ Coming soon...
 
 ## Linux VPS
 
-Coming soon...
+### Security
+
+* [Linux VPS Security Checklist](guides/linux-vps-security-checklist.md)
+
+Learn how to secure a production Linux VPS with practical recommendations covering SSH, firewalls, Fail2Ban, backups, monitoring, and SSL/TLS.
+
 
 ## Windows VPS
 
