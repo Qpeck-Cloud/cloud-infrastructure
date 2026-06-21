@@ -60,6 +60,8 @@ Coming soon...
 
 ---
 
-🌐 Enterprise Cloud Infrastructure
+## Learn More
 
-https://qpeck.com
+Explore **Enterprise Cloud Infrastructure, Linux VPS, Windows VPS, GPU Cloud Servers, Dedicated Servers, and SSL Certificates** at:
+
+👉 https://qpeck.com
