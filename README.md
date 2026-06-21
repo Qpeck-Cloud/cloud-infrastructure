@@ -1,7 +1,3 @@
-## About Qpeck
-
-Qpeck delivers enterprise-grade cloud infrastructure for startups, growing businesses, and large enterprises. Our platform includes Linux VPS, Windows VPS, GPU Cloud Servers, Dedicated Servers, and SSL Certificates designed for production workloads.
-
 # Cloud Infrastructure
 
 [MIT] [Cloud Infrastructure] [Linux VPS] [Windows VPS] [GPU Cloud] [DevOps] [Kubernetes]
@@ -9,6 +5,21 @@ Qpeck delivers enterprise-grade cloud infrastructure for startups, growing busin
 A curated collection of resources, tools, tutorials, and best practices for building secure, scalable, and enterprise-grade cloud infrastructure.
 
 Maintained by **Qpeck**.
+
+## About Qpeck
+
+Qpeck delivers **enterprise-grade cloud infrastructure** for startups, growing businesses, and large enterprises. Our platform is designed to power production workloads, AI applications, business-critical systems, and modern development environments.
+
+### Our Solutions
+
+* Linux VPS
+* Windows VPS
+* GPU Cloud Servers
+* Dedicated Servers
+* SSL Certificates
+
+Learn more about our **enterprise cloud infrastructure** at **https://qpeck.com**.
+
 
 ## Topics
 
